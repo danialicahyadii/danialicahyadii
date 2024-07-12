@@ -1,5 +1,4 @@
-<h1 align="center" class="text-base font-semibold text-primary md:text-xl">Hi 👋, saya <span id="app" class="block font-bold text-teal-500 text-4xl mt-1 lg:text-5xl"></span></h1>
-
+<h1 align="center">Hi 👋, I'm Dani Ali Cahyadi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danialicahyadii&label=Profile%20views&color=0e75b6&style=flat" alt="danialicahyadii" /> </p>
@@ -32,19 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danialicahyadii&show_icons=true&theme=algolia&locale=en&layout=compact" alt="danialicahyadii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danialicahyadii&show_icons=true&theme=algolia&locale=en" alt="danialicahyadii" /></p>
-<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
-<script>
-        var app = document.getElementById('app');
-
-        var typewriter = new Typewriter(app, {
-            loop: true
-        });
-
-        typewriter.typeString('Hi 👋, I'm Dani Ali Cahyadi')
-            .pauseFor(1500)
-            .deleteAll()
-            .start();
-    </script>
 <!---
 danialicahyadii/danialicahyadii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
