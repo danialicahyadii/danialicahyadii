@@ -9,8 +9,8 @@
 
 - 👯 I’m looking to collaborate on **a Team**
 
-- 👨‍💻 All of my projects are available at [On Development](On Development)
-
+- 👨‍💻 All of my projects are available at **https://danialicahyadii.github.io/portofolio-tailwindcss/**
+  
 - 📝 I regularly write articles on [I am Junior Programmer](I am Junior Programmer)
 
 - 💬 Ask me about **Anything You Want (Like a song Reality Club)**
