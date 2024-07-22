@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **a Team**
 
-- 👨‍💻 All of my projects are available at **https://danialicahyadii.github.io/portofolio-tailwindcss/**
+- 👨‍💻 All of my projects are available at **https://www.dannnqt.my.id/**
   
 - 📝 I regularly write articles on [I am Junior Programmer](I am Junior Programmer)
 
