@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danialicahyadii&label=Profile%20views&color=0e75b6&style=flat" alt="danialicahyadii" /> </p>
 
-- 🔭 I’m currently working on **Project Enhancement Application Non Core at PT Kimia Farma Tbk Holding**
+- 🔭 I’m currently working on **PT Kimia Farma Trading & Distribution as A Web Developer**
 
 - 🌱 I’m currently learning **ReactJS,**
 
