@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **a Team**
 
-- 👨‍💻 All of my projects are available at **https://portofolio-dannnqt.vercel.app/**
+- 👨‍💻 All of my projects are available at **https://dann.my.id/**
   
 - 📝 I regularly write articles on [I am Junior Programmer](I am Junior Programmer)
 
